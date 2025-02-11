@@ -1,2 +1,2 @@
 def prints_success():
-    print("The program ran successfully") 
+    print("The program ran successfully-----") 
